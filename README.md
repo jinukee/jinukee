@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,100:002419&height=230&section=header&text=Lee%20jinwook&fontSize=70&desc=DevOps%20developer&descSize=25&fontColor=FFFFFF&fontAlignY=40&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,100:002419&height=230&section=header&text=Lee%20jinwook&fontSize=70&desc=DevOps%20Engineer&descSize=25&fontColor=FFFFFF&fontAlignY=40&descAlignY=60)
 
 </div>
 
@@ -37,19 +37,28 @@
 
 ### 💻 코딩테스트 스터디 플랫폼(SaaS)
 > explanation
-- **Stack:** Spring Boot, React, Docker, Judge0
-- **Key Feature:** 사용자가 제출한 코드를 격리된 환경에서 실행하고 결과를 반환하는 시스템 구축
+- **Stack:** 
+- **Key Feature:** 
 
 ---
 
-## 🎓 Educations & Certificates
+## 🎓 Educations
+- 삼성청년SW·AI아카데미(SSAFY) - coding track [2026.1.7 ~ 진행 중]
+- 한국소프트웨어기술진흥협회 - Java 기반 DevOps [2025.7.28 ~ 2025.12.31]
 
+---
+
+## 📝 Certificates
+- 정보처리기사 [2025.9.12]
+- SQL개발자(SQLD) [2025.12.12]
 
 ---
 
 ## 📊 Stats
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinook)](https://solved.ac/jinook)
+<p align="left">
+  <a href="https://solved.ac/jinook"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jinook" height="150" /></a>&nbsp&nbsp&nbsp<a href="https://github.com/jinukee"><img src="https://github-readme-stats.vercel.app/api?username=jinukee&show_icons=true&theme=dark&bg_color=002419&title_color=a8e063&text_color=ffffff&icon_color=a8e063" height="150" /></a>
+</p>
 
 ---
 
