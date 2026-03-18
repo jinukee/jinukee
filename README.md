@@ -35,10 +35,31 @@
 
 ## 🚀 Featured Projects
 
-### 💻 코딩테스트 스터디 플랫폼(SaaS)
-> explanation
+<details>
+<summary>
+  
+### 💻 코딩테스트 스터디 플랫폼(Ujax)
+
+</summary>
+
+> 스터디원간 문제 공유 및 리뷰, 코드 실행 및 채점과 제출까지 All in one 으로 제공하는 Web 기반의 SaaS 프로젝트
 - **Stack:** 
-- **Key Feature:** 
+- **Key Feature:**
+  
+</details>
+
+<details>
+<summary>
+  
+### 🏠 부동산 실거래가 정보 제공 서비스(Home search)
+
+</summary>
+
+> 지도를 기반으로 최근 실거래가를 직관적인 UI/UX로 제공하고 관심지역의 실거래가 변동을 실시간으로 감지하여 알람으로 받아볼 수 있는 Web 기반의 SaaS 프로젝트
+- **Stack:**
+- 
+
+</details>
 
 ---
 
