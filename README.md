@@ -42,8 +42,19 @@
 
 ---
 
-## 📊 Coding Stats
+## 🎓 Educations & Certificates
+
+
+---
+
+## 📊 Stats
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinook)](https://solved.ac/jinook)
 
 ---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,100:002419&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=FFFFFF&fontAlignY=60)
+
+</div>
