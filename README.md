@@ -100,7 +100,7 @@
 ## 📊 Stats
 
 <div align="middle">
-  <a href="https://solved.ac/jinook"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jinook" height="100" /></a>&nbsp&nbsp<a href="https://github.com/jinukee"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jinukee&theme=solarized" height="100" /></a>&nbsp&nbsp<a href="https://github.com/jinukee"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jinukee&theme=solarized" height="100" /></a>
+  <a href="https://solved.ac/jinook"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jinook" height="170" /></a>&nbsp&nbsp<a href="https://github.com/jinukee"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jinukee&theme=solarized" height="170" /></a>&nbsp&nbsp<a href="https://github.com/jinukee"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jinukee&theme=solarized" height="170" /></a>
 </div>
 
 ---
