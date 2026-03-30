@@ -42,23 +42,45 @@
 
 </summary>
 
-> 스터디원간 문제 공유 및 리뷰, 코드 실행 및 채점과 제출까지 All in one 으로 제공하는 Web 기반의 SaaS 프로젝트
-- **Stack:** 
-- **Key Feature:**
+> 스터디원간 문제 공유 및 코드리뷰, 코드 실행 및 채점과 제출까지 하나의 서비스로 제공하는 Web SaaS 프로젝트
+
+**Stack** 
+
+> `java` `spring boot` `spring security` `docker` `k6` `github actions` `terraform`
   
+**Role** 
+
+[Service]
+- REST API 설계
+- Linux Sandbox 기반의 독립된 채점 파이프라인 구축
+
+[Infra]
+- K6 부하테스트 & 모니터링 기반 시스템 병목지점 분석
+- Terraform을 이용한 AWS 자원 유지보수
+- Github Actions를 이용한 CI/CD 파이프라인 구축
 </details>
 
 <details>
 <summary>
   
-### 🏠 부동산 실거래가 정보 제공 서비스(Home search)
+### 🏠 아파트 실거래가 정보 제공 서비스(Home search)
 
 </summary>
 
-> 지도를 기반으로 최근 실거래가를 직관적인 UI/UX로 제공하고 관심지역의 실거래가 변동을 실시간으로 감지하여 알람으로 받아볼 수 있는 Web 기반의 SaaS 프로젝트
-- **Stack:**
-- 
+> 지도를 기반으로 최근 거래된 아파트 실거래가를 직관적인 UI/UX로 제공하고 관심지역의 실거래가 변동을 실시간으로 감지하여 알람으로 받아볼 수 있는 Web SaaS 프로젝트
 
+**Stack**
+
+> `java` `spring boot` `spring security` `spring batch` `react` `javascript` `redux` 
+
+**Role**
+
+[Front]
+- Redux 기반 React Component 상태관리
+
+[Back]
+- REST API 설계
+- Spring Batch 기반 알림 대상자 메일 일괄 전송 파이프라인 구축
 </details>
 
 ---
@@ -77,9 +99,9 @@
 
 ## 📊 Stats
 
-<p align="left">
-  <a href="https://solved.ac/jinook"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jinook" height="150" /></a>&nbsp&nbsp&nbsp<a href="https://github.com/jinukee"><img src="https://github-readme-stats.vercel.app/api?username=jinukee&show_icons=true&theme=dark&bg_color=002419&title_color=a8e063&text_color=ffffff&icon_color=a8e063" height="150" /></a>
-</p>
+<div align="middle">
+  <a href="https://solved.ac/jinook"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jinook" height="125" /></a>&nbsp&nbsp<a href="https://github.com/jinukee"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jinukee&theme=solarized" height="125" /></a>&nbsp&nbsp<a href="https://github.com/jinukee"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jinukee&theme=solarized" height="125" /></a>
+</div>
 
 ---
 
