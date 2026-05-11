@@ -44,6 +44,9 @@
 
 > 스터디원간 문제 공유 및 코드리뷰, 코드 실행 및 채점과 제출까지 하나의 서비스로 제공하는 Web SaaS 프로젝트
 
+<img width="826" height="671" alt="ujax_infra drawio" src="https://github.com/user-attachments/assets/884ca895-5258-4599-a232-1f3256062478" />
+
+
 **Stack** 
 
 > `java` `spring boot` `spring security` `docker` `k6` `github actions` `terraform`
